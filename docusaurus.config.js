@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'lomanu4', // Usually your GitHub org/user name.
-  projectName: 'Lomanu4-tutorial', // Usually your repo name.
+  projectName: 'omanu4-tutorial', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

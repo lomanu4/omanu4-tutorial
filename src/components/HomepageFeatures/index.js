@@ -3,23 +3,25 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const FeatureList = [
-  // {
-  //   title: '',
-  //   Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-  //   description: (
-  //     <>
-  //       Зайди на наш форум GuardianeLinks.com где вы сможете отблагодарить или помочь для потдежки проекта.
-  //     </>
-  //   ),
-  // },
+  {
+    title: 'Telegram',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+      links:(https://t.me/+TZdCr_4lU2llMTg0)
+        **[Telegram group](https://t.me/+TZdCr_4lU2llMTg0)** 
+      </>
+    ),
+  },
   {
     title: 'Forum',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Зайди на наш форум GuardianeLinks.com где вы сможете отблагодарить или помочь для потдежки проекта.
+        Зайди на наш форум GuardianeLinks.com где вы сможете познать много ИТ информации или поделится.
       </>
     ),
+    
   },
   // {
   //   title: 'Powered by React',

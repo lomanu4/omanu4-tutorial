@@ -1,12 +1,12 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Обход лимит окон Lineage II server NewEra 
 
 Извиняюсь за орфографические ошибки и тавтологию, я не русский и живу за границей где и вырос.
 
-**(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png)**
+
 
 Как вы уже видели мой видео ролик у меня на ютуб канале **[Обход лимит окон Lineage II la2era C5](https://www.youtube.com/watch?v=NI0mZgQvBdM)**, я показал как я обошел лимит окон на сервере который написан в название и сейчас я вам расскажу более подробней как это сделать если кто-то из вас не понял как это сделать по видео.
  
